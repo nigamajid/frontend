@@ -7,11 +7,19 @@ function myFunction() {
   }
 }
 
-function onClickMenu() {
-  document.getElementById("menu") .classlist.toggle("change");
+// ALS JE KLIKT OP BUTTONS VOER SPECIFIEKE FUNCTIE UIT
+document.querySelector(".menu-open").addEventListener("click", openMenu);
+document.querySelector(".menu-close").addEventListener("click", closeMenu);
+
+// VOER DEZE FUNCTIE UIT (OPEN MENU)
+function openMenu() {
+    document.querySelector(".menu-overlay").classList.add("visible");
 }
 
-
+// VOER DEZE FUNCTIE UIT (CLOSE MENU)
+function closeMenu() {
+    document.querySelector(".menu-overlay").classList.remove("visible");
+}
 
 
 
