@@ -1,0 +1,418 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: white;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+}
+
+.header img:NTH-of-type(1){
+  width: 80px;
+  height: 80px;
+  right: 200px;
+  transform: translateX(250px);
+margin-top: 50px;
+}
+
+.header img:NTH-of-type(2){
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* tim heeft hiermee geholpen, ik weet nu dat het makkelijker is om het in even
+section te zetten en je de images aankunt roepen in de header zodat je niet
+100 classes hoeft te gebruiken. */
+
+.knoppen{
+  display: flex;
+  flex-direction: row;
+}
+
+.knoppen button:NTH-of-type(1){
+  border: 1px solid #e3e3e3;
+  color: black;
+  background-color: #f2f0f0;
+  padding: 60px 0px;
+  font-size: 30px;
+  flex: 1;
+}
+
+.knoppen button:NTH-of-type(2){
+  border: 1px solid #e3e3e3;
+  color: black;
+  background-color: #f2f0f0;
+  padding: 60px 0px;
+  font-size: 30px;
+  flex: 1;
+  /* flex 1 zorgt ervoor dat die button zoveel mogelijk ruimte in kan nemen
+  - mede mogelijk gemaakt door hulp van rowin */
+}
+
+.achtergrond{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 980px;
+height: 1400px;
+
+}
+
+.winter{
+  font-size: 70px;
+  position: relative;
+bottom: 800px;
+font-weight: bolder;
+color: white;
+}
+
+.nieuw{
+  font-size: 45px;
+  position: relative;
+bottom: 830px;
+color: white;
+}
+
+.dames{
+  font-size: 40px;
+  font-weight: bold;
+  position: relative;
+  bottom: 750px;
+  left: 90px;
+  border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+}
+
+.heren{
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+  bottom: 700px;
+  margin-left: 90px;
+  border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+  background-color: grey;
+  color: white;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif
+}
+
+
+.donkerefoto img:NTH-of-type(1){
+  position: absolute;
+top: 1770px;
+  width: 980px;
+  height: 1600px;
+}
+
+.donkerefoto p:NTH-of-type(1){
+  position: relative;
+  font-size: 130px;
+  color: white;
+  margin-top: 1px;
+  font-weight: bolder;
+}
+
+.donkerefoto p:NTH-of-type(2){
+position: relative;
+font-size: 50px;
+color: white;
+transform: translateY(-80px);
+font-weight: bold;
+}
+
+.donkerefoto p:NTH-of-type(3){
+  position: relative;
+  font-size: 35px;
+  color: white;
+  transform: translateY(-80px);
+}
+
+.donkerefoto button:NTH-of-type(1){
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+  left: 90px;
+  border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+}
+
+.donkerefoto button:NTH-of-type(2){
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+  left: 90px;
+transform: translateY(40px);
+  border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+  background-color: grey;
+  color: white;
+}
+
+.meisje img:NTH-of-type(1){
+  position: absolute;
+top: 3370px;
+  width: 980px;
+  height: 1600px;
+}
+
+.meisje p:NTH-of-type(1){
+  position: relative;
+  font-size: 45px;
+  color: white;
+  top: 1030px;
+  font-weight: bold;
+text-align: left;
+left: 30px;
+}
+
+.meisje p:NTH-of-type(2){
+  position: relative;
+  font-size: 35px;
+  color: white;
+  top: 1040px;
+  text-align: left;
+  left: 20px;
+}
+
+.meisje button:NTH-of-type(1){
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+  left: 90px;
+top: 1050px;
+border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+  background-color: white;
+  color: black;
+}
+
+.damesshoppen img:NTH-of-type(1){
+  width: 900px;
+  margin-top: 1300px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+height: 900px;
+}
+
+.damesshoppen p:NTH-of-type(1){
+  position: relative;
+  font-size: 110px;
+  font-weight: bold;
+  margin-right: 100px;
+  transform: translateY(-800px);
+  text-align: right;
+}
+
+.damesshoppen button:NTH-of-type(1){
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+  background-color: black;
+  color: white;
+  transform: translateY(-820px);
+  margin-left: 450px;
+}
+
+.herenshoppen img:NTH-of-type(1){
+  width: 900px;
+transform: translateY(-580px);
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+height: 900px;
+}
+
+.herenshoppen p:NTH-of-type(1){
+  position: relative;
+  font-size: 110px;
+  font-weight: bold;
+  margin-left: 100px;
+  transform: translateY(-1400px);
+  text-align: left;
+}
+
+.herenshoppen button:NTH-of-type(1){
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+  background-color: black;
+  color: white;
+  transform: translateY(-1420px);
+  margin-left: 80px;
+}
+
+.korting img:NTH-of-type(1){
+  width: 950px;
+transform: translateY(-980px);
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+height: 700px;
+border: 100px solid #e3e3e3;
+width: 100%;
+}
+
+.korting p:NTH-of-type(1){
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  position: relative;
+  transform: translateY(-1450px);
+  text-align: center;
+}
+
+.korting button:NTH-of-type(1){
+  font-size: 45px;
+  font-weight: bold;
+  position: relative;
+  left: 240px;
+transform: translateY(-1450px);
+border-radius: 100px;
+  border: none;
+  padding: 40px 100px;
+  background-color: white;
+  color: black;
+}
+
+article{
+  text-align: left;
+  margin-left: 50px;
+border: 1px solid black;
+padding: 70px;
+transform: translateY(-1200px);
+color: grey;
+
+}
+span{
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+
+.zwartstukje p:NTH-of-type(1){
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 2em 2em 10em 2em;
+  text-align: center;
+  font-size: 30px;
+  transform: translateY(-1200px);
+
+}
+
+/* wanneer je width 100% gebruikt betekent dat dat op elk scherm de volle scherm word gevuld */
+
+
+.nieuwsbrief, .nieuwtjes, .deals{
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+}
+
+.zwartstukje button:NTH-of-type(1){
+  font-size: 35px;
+  font-weight: bold;
+  position: relative;
+  left: 250px;
+transform: translateY(-1450px);
+border-radius: 80px;
+  border: none;
+  padding: 40px 100px;
+  background-color: white;
+  color: black;
+}
+
+.acc{
+  text-align: center;
+  transform: translateY(-1400px);
+  background-color: grey;
+  padding: 4em;
+  font-weight: bold;
+  color: white;
+}
+
+hr{
+  transform: translateY(-1300px);
+}
+
+.footer p:NTH-of-type(1){
+  transform: translateY(-1265px);
+  margin-left: 70px;
+  font-weight: bold;
+}
+
+.footer p:NTH-of-type(2){
+  text-align: right;
+  transform: translateY(-1350px);
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+.footer p:NTH-of-type(3){
+  transform: translateY(-1270px);
+  margin-left: 70px;
+  font-weight: bold;
+}
+
+.footer p:NTH-of-type(4){
+  text-align: right;
+  transform: translateY(-1350px);
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+.footer p:NTH-of-type(5){
+  transform: translateY(-1270px);
+  margin-left: 70px;
+  font-weight: bold;
+}
+
+.slideshow{
+  width: 100%
+  height: auto;
+  padding: 5px;
+  box-sizing: border-box; /* in de breedte van 100% word de padding meegenomen door borderbox*/
+  position: relative;
+  margin-left: 270px;
+transform: translateY(-1200px);
+}
+
+.slideshow img{
+  position: absolute;
+  animation: slideshow 15s infinite;
+  opacity: 0;
+  width: 100%
+  height: auto;
+
+}
+
+@keyframes slideshow {
+  25% {opacity: 1;
+  }
+  45% {opacity: 0;
+  }
+}
+
+.slideshow img:nth-child(1) {animation-delay: 0s;}
+.slideshow img:nth-child(2) {animation-delay: 5s;}
+.slideshow img:nth-child(3) {animation-delay: 10s;}
+
+/*https://netspecialist.nl/html-en-css/519-een-slideshow-widget-maken*/
