@@ -18,31 +18,42 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+bloed zweet en tranen maar dan heb je ook wel wat. disclaimer: lichtblauwe piste (heel lichtblauw) ik heb hier echt een meesterwerk neergezet voor mijn gevoel..
+hamburgermenu helaas nog steeds niet gelukt. verder ben ik aardig ver gekomen :)
 
-
-
+<img src="images/gym1.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym2.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym3.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym4.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym5.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym6.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym7.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym8.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym9.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym10.PNG" width="375px" alt="omschrijving van de pagina">
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
-
+In deze week heb ik samen met de docent besloten om over te stappen naar een andere site. Ik heb geen screenshots van het verloop want had nog maar twee weken de tijd om het in elkaar te zetten. niet aan gedacht dus excuse me
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+<img src="images/femme5.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme6.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme7.PNG" width="375px" alt="omschrijving van de pagina">
 
+Het ging nog steeds erg moeizaam. ik deed er echt mega lang over om een foto op de juiste plek te zetten..
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Hamburger menu lukte me echt niet. was er zo lang mee bezig dat ik heb opgegeven en verder. nog niet zo veel heb gedaan
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/femme8.PNG" width="375px" alt="omschrijving van de pagina">
+
 
 ### Agenda voor meeting
 
@@ -54,15 +65,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 | an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
+niet gedaan -:(
+
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+niet gedaan
 
 
 
 ## Breakdownschets (week 1)
+<img src="images/femme3.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme4.PNG" width="375px" alt="omschrijving van de pagina">
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
 
@@ -77,8 +91,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/homepage.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme2.PNG" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/newarrivals.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme1.PNG" width="375px" alt="omschrijving van de pagina">
