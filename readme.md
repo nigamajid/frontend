@@ -95,4 +95,4 @@ niet gedaan
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/femme1.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme1.png" width="375px" alt="omschrijving van de pagina">
