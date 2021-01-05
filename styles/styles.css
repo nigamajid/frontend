@@ -17,7 +17,7 @@ body{
   width: 80px;
   height: 80px;
   right: 200px;
-  transform: translateX(250px);
+  transform: translate(240px);
 margin-top: 50px;
 }
 
@@ -41,8 +41,11 @@ body {
 .menu-open{
   position: relative;
   width: 80px;
+  left: 0;
+  top: 0;
   margin: 0;
   padding: 0;
+  font-size: 20px;
 
 }
 
@@ -56,11 +59,15 @@ body {
   z-index: 1000;
   transform: translateX(-100%);
   transition: 0.45s transform;
+  font-size: 35px;
 }
 .menu-overlay.visible {
   transform: translateX(0);
 }
 
+.menu-close{
+  font-size: 30px;
+}
 
 
 .knoppen{
@@ -75,6 +82,8 @@ body {
   padding: 60px 0px;
   font-size: 30px;
   flex: 1;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  font-weight: bold;
 }
 
 .knoppen button:NTH-of-type(2){
@@ -84,6 +93,8 @@ body {
   padding: 60px 0px;
   font-size: 30px;
   flex: 1;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  font-weight: bold;
   /* flex 1 zorgt ervoor dat die button zoveel mogelijk ruimte in kan nemen
   - mede mogelijk gemaakt door hulp van rowin */
 }
@@ -103,6 +114,7 @@ height: 1400px;
 bottom: 800px;
 font-weight: bolder;
 color: white;
+font-family: "Montserrat",Helvetica,Arial,sans-serif;
 }
 
 .nieuw{
@@ -110,6 +122,7 @@ color: white;
   position: relative;
 bottom: 830px;
 color: white;
+font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
 
 .dames{
@@ -121,6 +134,7 @@ color: white;
   border-radius: 100px;
   border: none;
   padding: 40px 100px;
+  font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
 
 .heren{
@@ -131,10 +145,10 @@ color: white;
   margin-left: 90px;
   border-radius: 100px;
   border: none;
-  padding: 40px 100px;
+  padding: 40px 70px;
   background-color: grey;
   color: white;
-  font-family: "Montserrat",Helvetica,Arial,sans-serif
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
 }
 
 
@@ -151,6 +165,7 @@ top: 1770px;
   color: white;
   margin-top: 1px;
   font-weight: bolder;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .donkerefoto p:NTH-of-type(2){
@@ -159,6 +174,7 @@ font-size: 50px;
 color: white;
 transform: translateY(-80px);
 font-weight: bold;
+font-family: "Montserrat",Helvetica,Arial,sans-serif;
 }
 
 .donkerefoto p:NTH-of-type(3){
@@ -166,6 +182,7 @@ font-weight: bold;
   font-size: 35px;
   color: white;
   transform: translateY(-80px);
+  font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
 
 .donkerefoto button:NTH-of-type(1){
@@ -176,6 +193,7 @@ font-weight: bold;
   border-radius: 100px;
   border: none;
   padding: 40px 100px;
+    font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .donkerefoto button:NTH-of-type(2){
@@ -189,6 +207,7 @@ transform: translateY(40px);
   padding: 40px 100px;
   background-color: grey;
   color: white;
+    font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .meisje img:NTH-of-type(1){
@@ -206,6 +225,7 @@ top: 3370px;
   font-weight: bold;
 text-align: left;
 left: 30px;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .meisje p:NTH-of-type(2){
@@ -215,6 +235,7 @@ left: 30px;
   top: 1040px;
   text-align: left;
   left: 20px;
+    font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
 
 .meisje button:NTH-of-type(1){
@@ -228,6 +249,7 @@ border-radius: 100px;
   padding: 40px 100px;
   background-color: white;
   color: black;
+    font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .damesshoppen img:NTH-of-type(1){
@@ -246,6 +268,7 @@ height: 900px;
   margin-right: 100px;
   transform: translateY(-800px);
   text-align: right;
+    font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .damesshoppen button:NTH-of-type(1){
@@ -259,6 +282,7 @@ border-radius: 100px;
   color: white;
   transform: translateY(-820px);
   margin-left: 450px;
+    font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .herenshoppen img:NTH-of-type(1){
@@ -277,6 +301,7 @@ height: 900px;
   margin-left: 100px;
   transform: translateY(-1400px);
   text-align: left;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .herenshoppen button:NTH-of-type(1){
@@ -290,6 +315,7 @@ border-radius: 100px;
   color: white;
   transform: translateY(-1420px);
   margin-left: 80px;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .korting img:NTH-of-type(1){
@@ -310,6 +336,7 @@ width: 100%;
   position: relative;
   transform: translateY(-1450px);
   text-align: center;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .korting button:NTH-of-type(1){
@@ -323,6 +350,7 @@ border-radius: 100px;
   padding: 40px 100px;
   background-color: white;
   color: black;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 article{
@@ -332,12 +360,14 @@ border: 1px solid black;
 padding: 70px;
 transform: translateY(-1200px);
 color: grey;
-
+font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
+
 span{
   font-size: 40px;
   font-weight: bold;
   color: black;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .zwartstukje p:NTH-of-type(1){
@@ -348,7 +378,7 @@ span{
   text-align: center;
   font-size: 30px;
   transform: translateY(-1200px);
-
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 /* wanneer je width 100% gebruikt betekent dat dat op elk scherm de volle scherm word gevuld */
@@ -371,6 +401,7 @@ border-radius: 80px;
   padding: 40px 100px;
   background-color: white;
   color: black;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .acc{
@@ -380,6 +411,7 @@ border-radius: 80px;
   padding: 4em;
   font-weight: bold;
   color: white;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 hr{
@@ -390,6 +422,7 @@ hr{
   transform: translateY(-1265px);
   margin-left: 70px;
   font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .footer p:NTH-of-type(2){
@@ -397,12 +430,14 @@ hr{
   transform: translateY(-1350px);
   margin-right: 50px;
   font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .footer p:NTH-of-type(3){
   transform: translateY(-1270px);
   margin-left: 70px;
   font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .footer p:NTH-of-type(4){
@@ -410,12 +445,14 @@ hr{
   transform: translateY(-1350px);
   margin-right: 50px;
   font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .footer p:NTH-of-type(5){
   transform: translateY(-1270px);
   margin-left: 70px;
   font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
 .slideshow{
@@ -449,3 +486,253 @@ transform: translateY(-1200px);
 .slideshow img:nth-child(3) {animation-delay: 10s;}
 
 /*https://netspecialist.nl/html-en-css/519-een-slideshow-widget-maken*/
+
+.socialmedia{
+  position: relative;
+  margin-left: -70px;
+  transform: translateY(-1000px);
+width: 1100px;
+height: 400px;
+}
+
+.Voorwaarden, .terms, .privacy, .cookie, .modern{
+  text-align: center;
+  transform: translateY(-900px);
+  margin: 35px;
+  color: grey;
+  font-family: "Roboto",Helvetica,Arial,sans-serif;
+}
+
+.betalen{
+  position: relative;
+  margin-left: 100px;
+  transform: translateY(-800px);
+  width: 800px;
+}
+
+.footerlaatsteregel{
+  text-align: center;
+  color: grey;
+  margin-top: -1200px;
+    font-family: "Roboto",Helvetica,Arial,sans-serif;
+}
+h1{
+  text-align: center;
+  font-size: 80px;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.studenten{
+  position: relative;
+  margin-left: 70px;
+  height: 250px;
+  width: 850px;
+}
+
+
+h2{
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+font-family: Gibson, Helvetica, Arial, "Sans Serif";
+}
+
+.aanmeldtekst{
+  text-align: center;
+  font-family: Gibson, Helvetica, Arial, "Sans Serif";
+}
+
+.aanmelden{
+  background-color: black;
+  border: none;
+  padding: 20px 250px;
+  color: white;
+  position: relative;
+  font-size: 50px;
+  margin-left: 120px;
+  font-family: Gibson, Helvetica, Arial, "Sans Serif";
+}
+
+.aanmelden {
+        padding: 30px 85px;
+        color: #fff;
+        font-size: 24px;
+        text-transform: uppercase;
+        background-color: #000;
+        border: 1px solid #000;
+        transition: all 0.3s ease-in-out;
+        margin: 20px 0;
+        display: inline-block;
+        margin-left: 310px;
+}
+
+.aanmelden:hover {
+        color: #000;
+        background-color: #fff;
+        transform: scale(1.05);
+}
+/*https://sigmasolutions.nl/blog/animatie-toevoegen-aan-een-site/*/
+
+.algemenevoorwaarden{
+  text-decoration: underline;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 60px;
+  font-family: Gibson, Helvetica, Arial, "Sans Serif";
+}
+
+.logostudentbeans{
+  margin-left: 220px;
+  width: 550px;
+  height: 140px;
+}
+
+.help{
+  text-decoration: underline;
+  font-size: 10px;
+  text-align: center;
+  font-family: Gibson, Helvetica, Arial, "Sans Serif";
+}
+
+.account{
+  text-align: center;
+  transform: translateY(20px);
+  background-color: grey;
+  padding: 4em;
+  font-weight: bold;
+  color: white;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer2 p:NTH-of-type(1){
+  transform: translateY(70px);
+  margin-left: 70px;
+  font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer2 p:NTH-of-type(2){
+  text-align: right;
+  transform: translateY(-10px);
+  margin-right: 50px;
+  font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer2 p:NTH-of-type(3){
+  transform: translateY(90px);
+  margin-left: 70px;
+  font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer2 p:NTH-of-type(4){
+  text-align: right;
+  transform: translateY(5px);
+  margin-right: 50px;
+  font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer2 p:NTH-of-type(5){
+  transform: translateY(80px);
+  margin-left: 70px;
+  font-weight: bold;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer2 hr:NTH-of-type(1){
+  transform: translateY(40px);
+}
+
+.footer2 hr:NTH-of-type(2){
+  transform: translateY(30px);
+}
+
+.footer2 hr:NTH-of-type(3){
+  transform: translateY(30px);
+}
+
+.streep2{
+  transform: translateY(-40px);
+}
+
+.slideshow2 {
+  width: 100%
+  height: auto;
+  padding: 5px;
+  box-sizing: border-box; /* in de breedte van 100% word de padding meegenomen door borderbox*/
+  position: relative;
+  margin-left: 270px;
+transform: translateY(150px);
+}
+
+.slideshow2 img{
+  position: absolute;
+  animation: slideshow 15s infinite;
+  opacity: 0;
+  width: 100%
+  height: auto;
+
+}
+
+@keyframes slideshow2 {
+  25% {opacity: 1;
+  }
+  45% {opacity: 0;
+  }
+}
+
+.slideshow2 img:nth-child(1) {animation-delay: 0s;}
+.slideshow2 img:nth-child(2) {animation-delay: 5s;}
+.slideshow2 img:nth-child(3) {animation-delay: 10s;}
+
+.account{
+  text-align: center;
+  transform: translateY(-1px);
+  background-color: grey;
+  padding: 4em;
+  font-weight: bold;
+  color: white;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+
+.socialmedia2{
+  position: relative;
+  margin-left: -70px;
+  transform: translateY(400px);
+width: 1100px;
+height: 400px;
+}
+
+.Voorwaarden1, .terms1, .privacy1, .cookie1, .modern1{
+  text-align: center;
+  transform: translateY(390px);
+  margin: 35px;
+  color: grey;
+  font-family: "robotica",Helvetica,Arial,sans-serif;
+}
+
+.betalen2{
+  position: relative;
+  margin-left: 100px;
+  transform: translateY(400px);
+  width: 800px;
+}
+
+.streep2{
+  color: grey;
+  margin-top: 470px;
+}
+
+.footerlaatsteregel2{
+  text-align: center;
+  color: grey;
+  margin-top: 50px;
+  font-family: "robotica",Helvetica,Arial,sans-serif;
+}
+
+.streep{
+  color: grey;
+  margin-top: 510px;
+}
