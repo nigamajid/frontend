@@ -18,32 +18,29 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+van website geswitcht.. femmefierce liep toch niet goed af en ben overgestapt naar gymshark. ik heb ondertussen geen ss van het verloop omdat ik nog maar 2 weken had om dit in elkaar te zetten.
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
-
-
+<img src="images/femme5.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme6.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme7.PNG" width="375px" alt="omschrijving van de pagina">
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
-
+Ik liep erg vast bij het hamburger menu waardoor ik niet echt verder ben gegaan met de rest
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
-
+<img src="images/femme8.PNG" width="375px" alt="omschrijving van de pagina">
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
@@ -54,16 +51,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 | an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
+- niet gedaan
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+-niet gedaan
 
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
-
+<img src="images/femme3.PNG" width="375px" alt="breakdown van de pagina">
+<img src="images/femme4.PNG" width="375px" alt="breakdown pagina">
 
 
 ## Intake (week 1)
@@ -77,8 +74,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/homepage.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme2.PNG" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/newarrivals.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme1.PNG" width="375px" alt="omschrijving van de pagina">
