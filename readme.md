@@ -21,25 +21,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 bloed zweet en tranen maar dan heb je ook wel wat. disclaimer: lichtblauwe piste (heel lichtblauw) ik heb hier echt een meesterwerk neergezet voor mijn gevoel..
 hamburgermenu helaas nog steeds niet gelukt. verder ben ik aardig ver gekomen :)
 
-<img src="images/gym1.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym2.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym3.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym4.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym5.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym6.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym7.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym8.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym9.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym10.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym3.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym4.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym5.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym6.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym7.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym8.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym9.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym10.png" width="375px" alt="omschrijving van de pagina">
 ## Voortgang 3 (week 6)
 
 In deze week heb ik samen met de docent besloten om over te stappen naar een andere site. Ik heb geen screenshots van het verloop want had nog maar twee weken de tijd om het in elkaar te zetten. niet aan gedacht dus excuse me
 
 ## Voortgang 2 (week 5)
 
-<img src="images/femme5.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/femme6.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/femme7.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme5.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme6.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme7.png" width="375px" alt="omschrijving van de pagina">
 
 Het ging nog steeds erg moeizaam. ik deed er echt mega lang over om een foto op de juiste plek te zetten..
 
@@ -74,8 +74,8 @@ niet gedaan
 
 
 ## Breakdownschets (week 1)
-<img src="images/femme3.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/femme4.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme3.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme4.png" width="375px" alt="omschrijving van de pagina">
 
 
 
@@ -91,7 +91,7 @@ niet gedaan
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/femme2.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/femme2.png" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
