@@ -18,42 +18,31 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-bloed zweet en tranen maar dan heb je ook wel wat. disclaimer: lichtblauwe piste (heel lichtblauw) ik heb hier echt een meesterwerk neergezet voor mijn gevoel..
-hamburgermenu helaas nog steeds niet gelukt. verder ben ik aardig ver gekomen :)
+-screenshot(s) van je eindresultaat-
 
-<img src="images/gym1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym3.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym4.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym5.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym6.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym7.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym8.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym9.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/gym10.png" width="375px" alt="omschrijving van de pagina">
+
+
 ## Voortgang 3 (week 6)
 
-In deze week heb ik samen met de docent besloten om over te stappen naar een andere site. Ik heb geen screenshots van het verloop want had nog maar twee weken de tijd om het in elkaar te zetten. niet aan gedacht dus excuse me
+-same as voortgang 1-
+
+
 
 ## Voortgang 2 (week 5)
 
-<img src="images/femme5.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/femme6.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/femme7.png" width="375px" alt="omschrijving van de pagina">
+-same as voortgang 1-
 
-Het ging nog steeds erg moeizaam. ik deed er echt mega lang over om een foto op de juiste plek te zetten..
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
-Hamburger menu lukte me echt niet. was er zo lang mee bezig dat ik heb opgegeven en verder. nog niet zo veel heb gedaan
+-dit ging goed & dit was lastig-
 
 **Screenshot(s):**
 
-<img src="images/femme8.PNG" width="375px" alt="omschrijving van de pagina">
-
+-screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
@@ -65,18 +54,15 @@ Hamburger menu lukte me echt niet. was er zo lang mee bezig dat ik heb opgegeven
 | an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
-niet gedaan -:(
-
 ### Verslag van meeting
 
-niet gedaan
+-na afloop snel uitkomsten vastleggen-
 
 
 
 ## Breakdownschets (week 1)
-<img src="images/femme3.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/femme4.png" width="375px" alt="omschrijving van de pagina">
 
+-uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
 
@@ -91,8 +77,8 @@ niet gedaan
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/femme2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepage.PNG" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/femme1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/newarrivals.PNG" width="375px" alt="omschrijving van de pagina">
