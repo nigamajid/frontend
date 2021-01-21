@@ -75,7 +75,7 @@ body {
   flex-direction: row;
 }
 
-.knoppen button:NTH-of-type(1){
+.knoppen a:NTH-of-type(1){
   border: 1px solid #e3e3e3;
   color: black;
   background-color: #f2f0f0;
@@ -84,9 +84,11 @@ body {
   flex: 1;
   font-family: "Montserrat",Helvetica,Arial,sans-serif;
   font-weight: bold;
+  text-align: center;
+  text-decoration: none;
 }
 
-.knoppen button:NTH-of-type(2){
+.knoppen a:NTH-of-type(2){
   border: 1px solid #e3e3e3;
   color: black;
   background-color: #f2f0f0;
@@ -95,6 +97,8 @@ body {
   flex: 1;
   font-family: "Montserrat",Helvetica,Arial,sans-serif;
   font-weight: bold;
+  text-align: center;
+  text-decoration: none;
   /* flex 1 zorgt ervoor dat die button zoveel mogelijk ruimte in kan nemen
   - mede mogelijk gemaakt door hulp van rowin */
 }
@@ -126,23 +130,23 @@ font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
 
 .dames{
-  font-size: 40px;
+  font-size: 35px;
   font-weight: bold;
   position: relative;
-  bottom: 750px;
-  left: 90px;
+margin: 10em 6px;
   border-radius: 100px;
   border: none;
-  padding: 40px 100px;
-  font-family: "Roboto",Helvetica,Arial,sans-serif;
+  padding: 40px 70px;
+  background-color: grey;
+  color: white;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
 }
 
 .heren{
-  font-size: 45px;
+  font-size: 25px;
   font-weight: bold;
   position: relative;
-  bottom: 700px;
-  margin-left: 90px;
+  margin: 10px 6px;
   border-radius: 100px;
   border: none;
   padding: 40px 70px;
@@ -363,10 +367,20 @@ color: grey;
 font-family: "Roboto",Helvetica,Arial,sans-serif;
 }
 
+/*
 span{
   font-size: 40px;
   font-weight: bold;
   color: black;
+  font-family: "montserrat",Helvetica,Arial,sans-serif;
+}
+*/
+
+.artikel{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-align: left;
   font-family: "montserrat",Helvetica,Arial,sans-serif;
 }
 
