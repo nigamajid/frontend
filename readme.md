@@ -10,54 +10,62 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 2. -bron 2-
 3. -...-
 
+## Herkansing resultaat screenshots:
 
+<img src="images/eind1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind3.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind4.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind5.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind6.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind7.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/eind8.png" width="375px" alt="omschrijving van de pagina">
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Het ging heel stroef. Hamburgermenu nog steeds niet gelukt helaas. Ik ben uiteindelijk wel blij met me eindresultaat want ik heb er echt mega lang aangezeten en sinds de kerstvakantie pas begonnen dus had ook niet heel veel tijd
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+
+<img src="images/gym1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym3.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym4.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym5.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym6.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym7.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym8.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/gym9.png" width="375px" alt="omschrijving van de pagina">
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Besloten om toch een andere site te kiezen. Gymshark is de nieuwe site geworden, geen voortgang nog. begonnen in de vakantie.
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
 
+<img src="images/femme5.png" width="375px" alt="omschrijving van de pagina">
+
+<img src="images/femme6.png" width="375px" alt="omschrijving van de pagina">
+
+<img src="images/femme7.png" width="375px" alt="omschrijving van de pagina">
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Ik gaf het op na het hamburger menu, dat lukte echt niet
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
 
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
-
+<img src="images/femme8.png" width="375px" alt="omschrijving van de pagina">
 
 
 ## Breakdownschets (week 1)
